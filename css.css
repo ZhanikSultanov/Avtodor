@@ -87,6 +87,11 @@ nav a:hover {
 hr {
 	border-color: #fff;
 }
+/*--- slider ---*/
+.carousel-inner{
+    width: auto;
+    height: 700px;
+}
 /*--- about ---*/
 #pills-tab{
     width: 100%;
